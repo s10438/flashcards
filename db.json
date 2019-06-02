@@ -1,6 +1,6 @@
 {
   "configuration": {
     "preferredLanguage": "EN",
-    "persistedCardsFilePath": "/cards.json"
+    "persistedCardsFilePath": "cards.json"
   }
 }
